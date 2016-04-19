@@ -1,0 +1,462 @@
+{"features": [ {"geometry": 
+        {   "coordinates": [ -74.047186,
+                40.7164
+            ],
+            "type": "Point"},
+         "id": "Barrow St & Grand St",
+         "properties": {}, "type": "Feature"
+    },
+{"geometry": 
+        {   "coordinates": [ -74.044783,
+                40.720931
+            ],
+            "type": "Point"},
+         "id": "Barrow St & Newark Ave",
+         "properties": {}, "type": "Feature"
+    },
+{"geometry": {"coordinates": 
+[[-74.047186, 40.7164], 
+[-74.044783, 40.720931]], 
+"type": "LineString"}, 
+"id": 1, "properties": {}, "type": "Feature"},
+ {"geometry": 
+        {   "coordinates": [ -74.051613,
+                40.718246
+            ],
+            "type": "Point"},
+         "id": "Bright St & Monmouth St",
+         "properties": {}, "type": "Feature"
+    },
+{"geometry": 
+        {   "coordinates": [ -74.04857,
+                40.717294
+            ],
+            "type": "Point"},
+         "id": "Bright St & Jersey Av",
+         "properties": {}, "type": "Feature"
+    },
+{"geometry": {"coordinates": 
+[[-74.051613, 40.718246], 
+[-74.04857, 40.717294]], 
+"type": "LineString"}, 
+"id": 1, "properties": {}, "type": "Feature"},
+ {"geometry": 
+        {   "coordinates": [ -74.050704,
+                40.724359
+            ],
+            "type": "Point"},
+         "id": "Brunswick St & Newark Av",
+         "properties": {}, "type": "Feature"
+    },
+{"geometry": 
+        {   "coordinates": [ -74.051406,
+                40.721935
+            ],
+            "type": "Point"},
+         "id": "Brunswick St & Columbus Dr",
+         "properties": {}, "type": "Feature"
+    },
+{"geometry": {"coordinates": 
+[[-74.050704, 40.724359], 
+[-74.051406, 40.721935]], 
+"type": "LineString"}, 
+"id": 1, "properties": {}, "type": "Feature"},
+ {"geometry": 
+        {   "coordinates": [ -74.048224,
+                40.721144
+            ],
+            "type": "Point"},
+         "id": "Coles St & Columbus Drive",
+         "properties": {}, "type": "Feature"
+    },
+{"geometry": 
+        {   "coordinates": [ -74.047586,
+                40.722826
+            ],
+            "type": "Point"},
+         "id": "Coles & Second Street",
+         "properties": {}, "type": "Feature"
+    },
+{"geometry": {"coordinates": 
+[[-74.048224, 40.721144], 
+[-74.047586, 40.722826]], 
+"type": "LineString"}, 
+"id": 1, "properties": {}, "type": "Feature"},
+ {"geometry": 
+        {   "coordinates": [ -74.05264,
+                40.722938
+            ],
+            "type": "Point"},
+         "id": "Colgate St & First St ",
+         "properties": {}, "type": "Feature"
+    },
+{"geometry": 
+        {   "coordinates": [ -74.05206,
+                40.724013
+            ],
+            "type": "Point"},
+         "id": "Colgate St & Third St ",
+         "properties": {}, "type": "Feature"
+    },
+{"geometry": {"coordinates": 
+[[-74.05264, 40.722938], 
+[-74.05206, 40.724013]], 
+"type": "LineString"}, 
+"id": 1, "properties": {}, "type": "Feature"},
+ {"geometry": 
+        {   "coordinates": [ -74.043047,
+                40.719535
+            ],
+            "type": "Point"},
+         "id": "Columbus Dr & Grove st",
+         "properties": {}, "type": "Feature"
+    },
+{"geometry": 
+        {   "coordinates": [ -74.051406,
+                40.721935
+            ],
+            "type": "Point"},
+         "id": "Columbus Dr & Brunswick St",
+         "properties": {}, "type": "Feature"
+    },
+{"geometry": {"coordinates": 
+[[-74.043047, 40.719535], 
+[-74.051406, 40.721935]], 
+"type": "LineString"}, 
+"id": 1, "properties": {}, "type": "Feature"},
+ {"geometry": 
+        {   "coordinates": [ -74.053926,
+                40.723482
+            ],
+            "type": "Point"},
+         "id": "First St & Merseles St ",
+         "properties": {}, "type": "Feature"
+    },
+{"geometry": 
+        {   "coordinates": [ -74.047026,
+                40.72205
+            ],
+            "type": "Point"},
+         "id": "First St & Newark Av",
+         "properties": {}, "type": "Feature"
+    },
+{"geometry": {"coordinates": 
+[[-74.053926, 40.723482], 
+[-74.047026, 40.72205]], 
+"type": "LineString"}, 
+"id": 1, "properties": {}, "type": "Feature"},
+ {"geometry": 
+        {   "coordinates": [ -74.052481,
+                40.724942
+            ],
+            "type": "Point"},
+         "id": "Fourth St & Merseles St",
+         "properties": {}, "type": "Feature"
+    },
+{"geometry": 
+        {   "coordinates": [ -74.050866,
+                40.724525
+            ],
+            "type": "Point"},
+         "id": "Grove St & Grand St ",
+         "properties": {}, "type": "Feature"
+    },
+{"geometry": {"coordinates": 
+[[-74.052481, 40.724942], 
+[-74.050866, 40.724525]], 
+"type": "LineString"}, 
+"id": 1, "properties": {}, "type": "Feature"},
+ {"geometry": 
+        {   "coordinates": [ -74.044907,
+                40.71612
+            ],
+            "type": "Point"},
+         "id": "Grove St & Grand St ",
+         "properties": {}, "type": "Feature"
+    },
+{"geometry": 
+        {   "coordinates": [ -74.042924,
+                40.719998
+            ],
+            "type": "Point"},
+         "id": "Grove St & Newark Av",
+         "properties": {}, "type": "Feature"
+    },
+{"geometry": {"coordinates": 
+[[-74.044907, 40.71612], 
+[-74.042924, 40.719998]], 
+"type": "LineString"}, 
+"id": 1, "properties": {}, "type": "Feature"},
+ {"geometry": 
+        {   "coordinates": [ -74.049018,
+                40.716498
+            ],
+            "type": "Point"},
+         "id": "Jersey Av & Grand St",
+         "properties": {}, "type": "Feature"
+    },
+{"geometry": 
+        {   "coordinates": [ -74.046175,
+                40.721587
+            ],
+            "type": "Point"},
+         "id": "Jersey Av & Newark",
+         "properties": {}, "type": "Feature"
+    },
+{"geometry": {"coordinates": 
+[[-74.049018, 40.716498], 
+[-74.046175, 40.721587]], 
+"type": "LineString"}, 
+"id": 1, "properties": {}, "type": "Feature"},
+ {"geometry": 
+        {   "coordinates": [ -74.043243,
+                40.711798
+            ],
+            "type": "Point"},
+         "id": "1 Marin Blvd ",
+         "properties": {}, "type": "Feature"
+    },
+{"geometry": 
+        {   "coordinates": [ -74.041429,
+                40.719029
+            ],
+            "type": "Point"},
+         "id": "Marin Blvd & Columbus Dr",
+         "properties": {}, "type": "Feature"
+    },
+{"geometry": {"coordinates": 
+[[-74.043243, 40.711798], 
+[-74.041429, 40.719029]], 
+"type": "LineString"}, 
+"id": 1, "properties": {}, "type": "Feature"},
+ {"geometry": 
+        {   "coordinates": [ -74.046409,
+                40.721258
+            ],
+            "type": "Point"},
+         "id": "Maxwell St & Jersey Ave",
+         "properties": {}, "type": "Feature"
+    },
+{"geometry": 
+        {   "coordinates": [ -74.047988,
+                40.72157
+            ],
+            "type": "Point"},
+         "id": "Maxwell St & Coles St",
+         "properties": {}, "type": "Feature"
+    },
+{"geometry": {"coordinates": 
+[[-74.046409, 40.721258], 
+[-74.047988, 40.72157]], 
+"type": "LineString"}, 
+"id": 1, "properties": {}, "type": "Feature"},
+ {"geometry": 
+        {   "coordinates": [ -74.04229,
+                40.717951
+            ],
+            "type": "Point"},
+         "id": "Mercer St & Marin Blvd ",
+         "properties": {}, "type": "Feature"
+    },
+{"geometry": 
+        {   "coordinates": [ -74.050547,
+                40.720232
+            ],
+            "type": "Point"},
+         "id": "Mercer St & Monmouth St",
+         "properties": {}, "type": "Feature"
+    },
+{"geometry": {"coordinates": 
+[[-74.04229, 40.717951], 
+[-74.050547, 40.720232]], 
+"type": "LineString"}, 
+"id": 1, "properties": {}, "type": "Feature"},
+ {"geometry": 
+        {   "coordinates": [ -74.051781,
+                40.72536
+            ],
+            "type": "Point"},
+         "id": "Merseles St & Newark Av",
+         "properties": {}, "type": "Feature"
+    },
+{"geometry": 
+        {   "coordinates": [ -74.053926,
+                40.723482
+            ],
+            "type": "Point"},
+         "id": "Merseles St & First St",
+         "properties": {}, "type": "Feature"
+    },
+{"geometry": {"coordinates": 
+[[-74.051781, 40.72536], 
+[-74.053926, 40.723482]], 
+"type": "LineString"}, 
+"id": 1, "properties": {}, "type": "Feature"},
+ {"geometry": 
+        {   "coordinates": [ -74.051613,
+                40.718246
+            ],
+            "type": "Point"},
+         "id": "Monmouth St & Bright St ",
+         "properties": {}, "type": "Feature"
+    },
+{"geometry": 
+        {   "coordinates": [ -74.049242,
+                40.723175
+            ],
+            "type": "Point"},
+         "id": "Monmouth St & Newark Av",
+         "properties": {}, "type": "Feature"
+    },
+{"geometry": {"coordinates": 
+[[-74.051613, 40.718246], 
+[-74.049242, 40.723175]], 
+"type": "LineString"}, 
+"id": 1, "properties": {}, "type": "Feature"},
+ {"geometry": 
+        {   "coordinates": [ -74.039139,
+                40.716924
+            ],
+            "type": "Point"},
+         "id": "Montgomery St & Warren St ",
+         "properties": {}, "type": "Feature"
+    },
+{"geometry": 
+        {   "coordinates": [ -74.050895,
+                40.719565
+            ],
+            "type": "Point"},
+         "id": "Montgomery St & Monmouth St",
+         "properties": {}, "type": "Feature"
+    },
+{"geometry": {"coordinates": 
+[[-74.039139, 40.716924], 
+[-74.050895, 40.719565]], 
+"type": "LineString"}, 
+"id": 1, "properties": {}, "type": "Feature"},
+ {"geometry": 
+        {   "coordinates": [ -74.051781,
+                40.72536
+            ],
+            "type": "Point"},
+         "id": "Newark Av & Merseles St ",
+         "properties": {}, "type": "Feature"
+    },
+{"geometry": 
+        {   "coordinates": [ -74.051781,
+                40.72536
+            ],
+            "type": "Point"},
+         "id": "Newark Av & Erie St",
+         "properties": {}, "type": "Feature"
+    },
+{"geometry": {"coordinates": 
+[[-74.051781, 40.72536], 
+[-74.051781, 40.72536]], 
+"type": "LineString"}, 
+"id": 1, "properties": {}, "type": "Feature"},
+ {"geometry": 
+        {   "coordinates": [ -74.047586,
+                40.722826
+            ],
+            "type": "Point"},
+         "id": "Second St & Coles St ",
+         "properties": {}, "type": "Feature"
+    },
+{"geometry": 
+        {   "coordinates": [ -74.053885,
+                40.723949
+            ],
+            "type": "Point"},
+         "id": "Second St & Merseles St",
+         "properties": {}, "type": "Feature"
+    },
+{"geometry": {"coordinates": 
+[[-74.047586, 40.722826], 
+[-74.053885, 40.723949]], 
+"type": "LineString"}, 
+"id": 1, "properties": {}, "type": "Feature"},
+ {"geometry": 
+        {   "coordinates": [ -74.053326,
+                40.724416
+            ],
+            "type": "Point"},
+         "id": "Third St & Merseles St ",
+         "properties": {}, "type": "Feature"
+    },
+{"geometry": 
+        {   "coordinates": [ -74.047473,
+                40.723533
+            ],
+            "type": "Point"},
+         "id": "Third St & Coles St",
+         "properties": {}, "type": "Feature"
+    },
+{"geometry": {"coordinates": 
+[[-74.053326, 40.724416], 
+[-74.047473, 40.723533]], 
+"type": "LineString"}, 
+"id": 1, "properties": {}, "type": "Feature"},
+ {"geometry": 
+        {   "coordinates": [ -74.042019,
+                40.718375
+            ],
+            "type": "Point"},
+         "id": "Wayne St & Marin Blvd ",
+         "properties": {}, "type": "Feature"
+    },
+{"geometry": 
+        {   "coordinates": [ -74.048611,
+                40.72045
+            ],
+            "type": "Point"},
+         "id": "Wayne St & Varick St",
+         "properties": {}, "type": "Feature"
+    },
+{"geometry": {"coordinates": 
+[[-74.042019, 40.718375], 
+[-74.048611, 40.72045]], 
+"type": "LineString"}, 
+"id": 1, "properties": {}, "type": "Feature"},
+ {"geometry": 
+        {   "coordinates": [ -74.03929,
+                40.716202
+            ],
+            "type": "Point"},
+         "id": "York St & Warren St ",
+         "properties": {}, "type": "Feature"
+    },
+{"geometry": 
+        {   "coordinates": [ -74.051236,
+                40.718936
+            ],
+            "type": "Point"},
+         "id": "York St & Monmouth St",
+         "properties": {}, "type": "Feature"
+    },
+{"geometry": {"coordinates": 
+[[-74.03929, 40.716202], 
+[-74.051236, 40.718936]], 
+"type": "LineString"}, 
+"id": 1, "properties": {}, "type": "Feature"},
+ {"geometry": 
+        {   "coordinates": [ -74.05008,
+                40.717762
+            ],
+            "type": "Point"},
+         "id": "Varick St & Bright St ",
+         "properties": {}, "type": "Feature"
+    },
+{"geometry": 
+        {   "coordinates": [ -74.048224,
+                40.721144
+            ],
+            "type": "Point"},
+         "id": "Varick St & Columbus Dr",
+         "properties": {}, "type": "Feature"
+    },
+{"geometry": {"coordinates": 
+[[-74.05008, 40.717762], 
+[-74.048224, 40.721144]], 
+"type": "LineString"}, 
+"id": 1, "properties": {}, "type": "Feature"}], "type": "FeatureCollection"}
